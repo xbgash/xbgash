@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xbgash
 - 👀 I’m interested in Tech Learning , Geek ;
-- 🌱 I’m currently learning Javascript;
+- 🌱 I’m currently learning Javascript,C++,Unity,Unreal;
 - 💞️ I’m looking to collaborate With Positive Minded people;
 - 📫 How to reach me xbgash@gmail.com
 
